@@ -1,0 +1,54 @@
+[
+  { 
+    "id":1,
+    "title":"가장 멜로와 잘 어울리는 남자배우는?",
+    "option1":"유승호",
+    "img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IcPw4nDUubmQIuJwPyHF1QGlo4qYs-zvRA&usqp=CAU",
+    "vote1":0,
+    "option2":"이도현",
+    "img2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwfiXlWkJT9Z_Q55vpcDroU_-rZ_OcVBv9A&usqp=CAU",
+    "vote2":0,
+    "option3":"강동원",
+    "img3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGwzDc3MHSwT1Xmdo29aHog_875O3CmBbsZw&usqp=CAU",
+    "vote3":0
+  },
+  {
+    "id":2,
+    "title":"가장 멜로와 잘 어울리는 여자배우는?",
+    "option1":"김소현",
+    "img1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCpu-v_6ngtVysDrvWzL3EjAoUN2g9N5W-Q&usqp=CAU",
+    "vote1":0,
+    "option2":"박보영",
+    "img2":"https://i.pinimg.com/474x/b7/d3/dc/b7d3dcad714158c28de4c4daddc9c694.jpg",
+    "vote2":0,
+    "option3":"김지원",
+    "img3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOvys_-BsP0mvn1t4nCk7JEU_ty3gZ9jQBA&usqp=CAU",
+    "vote3":0
+  },
+  { 
+    "id":3,
+    "title":"자꾸 눈이 가게 만드는 배우는?",
+    "option1":"에즈라밀러",
+    "img1":"https://i.pinimg.com/474x/d1/d3/2c/d1d32c355cb501b4360b4d15374ed0e8.jpg",
+    "vote1":0,
+    "option2":"제임스맥어보이",
+    "img2":"https://i.pinimg.com/474x/43/cb/32/43cb320ef88835a969d050540676443d.jpg",
+    "vote2":0,
+    "option3":"티모시살라메",
+    "img3":"https://i.pinimg.com/474x/42/49/50/4249509e109a06887fb89ae9b0a938ca.jpg",
+    "vote3":0
+  },
+  { 
+    "id":4,
+    "title":"몰입도를 높여 주는 배우는?",
+    "option1":"김혜수",
+    "img1":"https://i.pinimg.com/474x/f2/3f/b7/f23fb7628a85cd82245c31ffe805388c.jpg",
+    "vote1":0,
+    "option2":"공효진",
+    "img2":"https://i.pinimg.com/474x/97/bd/d3/97bdd37418f7773a7475b887e226cb1d.jpg",
+    "vote2":0,
+    "option3":"배두나",
+    "img3":"https://i.pinimg.com/474x/ee/0a/ee/ee0aee8e99ec333c41dbb8082a95ddb4.jpg",
+    "vote3":0
+  }
+]
