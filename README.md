@@ -476,113 +476,129 @@ urlpatterns = [
 
 ### Home 화면
 
-![image-20211126080807414](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126080807414.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/684349c678f87d9510ff214bb2b7083a/image.png)
 
-![image-20211126080844808](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126080844808.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/6705e23af81389db8ae0ee6b08ab9c2e/image.png)
+
+
 
 #### 추천 영화 클릭시 : 사용자가 클릭한 영화를 바탕으로 추천
 
-![image-20211126080944250](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126080944250.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/b764110de3ede32c4c586ea9a52d5005/image.png)
 
 
+
+---
 
 ### Movie 화면
 
 컬렉션을 업데이트 순/ 인기순으로 정렬 가능
 
-![image-20211126081108049](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081108049.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/f8cf031a002feaba07b3fe63e4b04f2c/image.png)
 
 
 
 영화를 등록일 순/ 조회순/ 인기순으로 정렬 가능
 
-![](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081220078.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/728e1addb1a81ce5c562e212ef0f57e3/image.png)
 
 
 
 ### Nav Bar에서 영화/컬렉션 검색 가능
 
-![image-20211126081357689](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081357689.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/e1fe9d19af127c2c13744a04e07791c3/image.png)
 
-![image-20211126081432661](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081432661.png)
+
 
 컬렉션의 경우 태그와 제목으로 검색 가능
 
-![image-20211126081507205](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081507205.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/2cb113b96f8d085b90b15cdf8e938ff9/image.png)
 
-영화 검색
+영화의 경우 제목으로 검색
 
-![image-20211126081542998](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081542998.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/f6e0af23c0d4cefdf46b08e3923a523f/image.png)
 
 
 
-### 영화 등록 및 수정/ 삭제 가능한 ADMIN  페이지
+
+
+---
+
+### 영화 등록 및 수정/ 삭제 가능한 ADMIN  페이지 (관리자권한)
 
 다른 사용자들로 부터 등록 요청이 온 영화들(admin은 요청을 수락하거나 반려 가능)
 
-![image-20211126081636029](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081636029.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/12a5c2788cfb4b4e0787a0389f7341e4/image.png)
 
 admin 페이지에서 영화를 검색한 결과 -> 등록된 영화면 수정과 삭제 버튼이 나타남
 
-![image-20211126081812872](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081812872.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/411bca78abed8482ddd2cdf4d74d4b49/image.png)
+
+---
 
 ### 프로필 페이지
 
 이미지 선택, 삭제 가능/ 닉네임 변경과 자기소개 입력 가능/ 회원 탈퇴 가능
 
-![image-20211126081905858](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126081905858.png)
+
+
+- PROFILE 
+  - 해당 유저의 프로필 사진 선택 후 등록시 프로필 사진 DB저장
+  - 기본이미지 버튼 클릭시 아래의 사진으로 프로필 사진 변경
+
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/0ed097be66c42c8044ff6bbe9303b582/image.png)
+
+
+
+​		- 닉네임 변경 및 자기소개 변경 클릭시 modal에서 변경 
+
 
 ![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/ec9cfc9b2d993c56db1b3c6b99fb7ae8/image.png)
 
+
+
+- MY FEED
+  - 해당 유저가 여러 길드에서 작성한 글 모아보기 기능
+  - 클릭시 해당 길드로 연결
+
 ![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/571f4c094643e070f4629a52027053be/image.png)
 
+
+
+- MY ALRAM
+  - 길드 매니저의 경우 - 관리 길드의 가입신청 알림 
+    - 수락 : 해당 회원 길드 회원 상태로 변경
+    - 거절 : 해당 회원 길드 Detail에서 가입신청 버튼 다시 생김, 여전히 비회원 상태
+  - 작성글에 타 유저가 좋아요 버튼 눌렀을 시 알림 
+    - 타 유저 좋아요 취소시 알림 사라짐
+    - 확인의 표시로 x버튼을 눌렀을 시 다시 생기지 않음
+
 ![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/32264d77a9237326eb43f170e4a8669e/image.png)
+
+- MY GUILDS
+  - 해당 유저의 가입길드 관리
+  - 매니저의 경우 탈퇴 >> 해당 길드 사라짐
+  - 회원의 경우 탈퇴 >>  해당 길드 비회원 상태로 변경
 
 ![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/ba821a6100453711fb6361d3527d85b8/image.png)
 
 
 
-
-
-
-
-
-
-
+----
 
 ### 길드 탭 페이지
 
 내 프로필과 내가 속한 길드 확인 가능/ 길드 선택시 길드의 피드로 이동
 
-마이 길드와 전체 길드 확인 가능
+- 최상단에 길드 태그로 검색 기능
 
-![image-20211126083228334](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126083228334.png)
+- 상단에 해당유저의 길드 모아보기 
 
-![image-20211126082246230](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126082246230.png)
+- 하단에 전체 길드 확인 가능
 
-![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/019d7459dbd1adc30654b4ac868bc3eb/image.png)
+  ![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/37a0a4601ec71d0aafa9355b50486ab3/image.png)
 
-
-
-![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/f10ebf743c99ff4d54097ee3a7a21f4c/image.png)
-
-
-
-![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/05e8cb1ec657c133c60510d088f86be8/image.png)
-
-
-
-
-
-
-
-
-
-### 길드 생성 페이지
-
-길드 생성시 길드를 표현할 태그와 길드 공개 여부, 길드 프로필 사진 선택 가능
-
-![image-20211126082113781](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126082113781.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/3127d32a6fbf1b09de4db4ce021e5d4c/image.png)
 
 
 
@@ -592,19 +608,80 @@ admin 페이지에서 영화를 검색한 결과 -> 등록된 영화면 수정�
 
 이 외에도 글 작성/ 작성된 글을 리코멘트/ 내가 작성한 글/내가 좋아요한 글 보기 가능
 
-![image-20211126082522005](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126082522005.png)
+
+
+- GUILD DETAIL(길드페이지에서 특정 길드 클릭시 연결)
+  - 비회원 상태일 때 가입 버튼 
+    - 클릭시 버튼 사라짐 >  매니저가 수락 시 회원, 거절 시 다시 가입신청 버튼 생성
+
+
+
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/f10ebf743c99ff4d54097ee3a7a21f4c/image.png)
+
+- 매니저의 경우
+  - 대표 이미지 삭제 가능
+  - 태그 추가 및 삭제 가능
+  - update > 대표이미지 변경, 소개글 변경, 길드 이름 변경 가능
+  - delete > 길드 삭제 가능
+
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/c79c42df80ed27494eaeafea581a8180/image.png)
+
+
+
+
+
+- All Articles
+
+  - 해당 길드 내 모든 글 확인 가능(공개 길드의 경우)
+  - 회원의 경우
+    - CREATE ARTICLE 버튼 클릭시 글 작성 가능 > 이미지 첨부 가능
+    - RECOMMENT 버튼 클릭하여 글 작성 가능 > 글 하단에 몇번째 글을 리트윗했는지 보임
+
+  ![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/b84945675f976e44898845fddb201863/image.png)
+
+
+
+​		- 비회원의 경우 글 열람과 좋아요만 가능
+
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/05e8cb1ec657c133c60510d088f86be8/image.png)
+
+
+
+​		- 비공개 길드의 경우
+
+​			- 비회원은 글 열람 자체 불가능
+
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/2c8ac8c56bc2c2216f1dc8393fb1888e/image.png)
+
+- Recomments 탭
+
+  - 해당 유저가 리코멘트 한 내역을 모아볼 수 있음
+
+  ![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/15c3809e6a0282d37aaf46fa72fbf777/image.png)
+
+- My Articles
+
+  - 해당길드 해당 유저 본인의 글만 모아 조회 및 삭제 가능
+
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/904c276391e25deaa155a46101cfaa1a/image.png)
+
+- Favorites
+
+  - 해당길드 해당유저가 좋아요한 글 전체 조회 가능
+
+  ![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/c00adfcfde315d3088f358f2827d090b/image.png)
+
+
 
 ### 다른 길드에 가입 신청 
 
-![image-20211126082846902](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126082846902.png)
+![image](https://lab.ssafy.com/whdlsj98/final-pjt-front/uploads/98013e4c8b3d10a07070491ec83b37f6/image.png)
 
 
 
-### My profile의 My Alram에  길드 가입 신청 알람 확인 가능(이 외에도 내 글을 리코멘트, 좋아요 하는 경우 알림)
-
-![image-20211126083049638](C:\Users\USER\Desktop\Final_project\final-pjt-front\final-pjt-front\client\Final PJT.assets\image-20211126083049638.png)
 
 
+---
 
 ## 5. 문제 해결 과정 
 
