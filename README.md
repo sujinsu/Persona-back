@@ -738,7 +738,7 @@ admin 페이지에서 영화를 검색한 결과 -> 등록된 영화면 수정�
 
 ####  데이터 정리 및 계획 at Notion
 
-> https://www.notion.so/bb08dc6140df4dd4955e185bc9562ad8?v=cf5571cb869545d29fafbb5e7090f535
+> [https://www.notion.so/bb08dc6140df4dd4955e185bc9562ad8?v=cf5571cb869545d29fafbb5e7090f535](https://zany-offer-3cd.notion.site/bb08dc6140df4dd4955e185bc9562ad8?v=ea150de569e649ad8d020cbf6bce3d0c&pvs=4)
 
 ---
 
